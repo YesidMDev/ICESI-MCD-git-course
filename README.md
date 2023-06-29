@@ -1,1 +1,3 @@
-# ICESI-MCD-git-course
+## ICESI-MCD-git-course
+
+Data Science Master's Degree
